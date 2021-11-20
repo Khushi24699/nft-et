@@ -1,0 +1,65 @@
+.nav_main {
+    overflow: visible;
+    padding-bottom: 10px;
+    text-align: center;
+    /* text-justify: center; */
+}
+
+.upload {
+    padding-top: 30px;
+}
+
+.smallcard {
+    width: 60%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+}
+
+.display {
+    display: flex;
+    justify-content: space-between;
+    z-index: 1;
+    flex-wrap: wrap;
+    padding-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+.displaycard {
+    width: 45%;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+
+.heading {
+    text-align: center;
+}
+
+.details {
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    padding-top: 10%;
+}
+
+.artdetails {
+    padding-top: 3%;
+    line-height: 2;
+    padding-bottom: 2%;
+}
+
+.image {
+    padding-top: 2%;
+    padding-left: 4%;
+    justify-content: center;
+    align-items: center;
+    /* padding-bottom: 2%; */
+}
