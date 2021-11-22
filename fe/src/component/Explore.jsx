@@ -14,7 +14,7 @@ function Explore(props){
     currentAccount ={props.currentAccount}/>
     <div className="heading">
         <h3>
-            All the collectibles available in this contract
+                Collectibles
         </h3>
     </div>
     <div className="display">

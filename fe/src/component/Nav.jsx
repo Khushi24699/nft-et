@@ -16,7 +16,7 @@ function Navbarr(props){
                     // ="/user"
                     >{props.currentAccount}</Nav.Link>
                         <Nav.Link href="/">Home</Nav.Link>
-                        <Nav.Link href="/explore">Explore</Nav.Link>
+                        <Nav.Link href="/explore">Explore Market</Nav.Link>
                         
                     </Nav>
                 </Navbar.Collapse>
