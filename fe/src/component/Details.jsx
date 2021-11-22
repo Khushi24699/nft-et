@@ -83,7 +83,7 @@ const handlebuy = async(value)=>{
             loading={loading}/>
             <div className="heading">
 
-            <h3> Know a little  bit  more about the token number {id}</h3>
+            <h3>  about the token number {id}</h3>
             </div>
             <div className ="details">
             <Card>
@@ -127,7 +127,6 @@ const handlebuy = async(value)=>{
                             <br/><Button onClick={()=>{
                             const price = priceref.current.value;
                                 handlebuy(price)}}
-                            //onclick function modify garnu parnae xa 
                             >Submit</Button>
                         </Form>
                     </div>
